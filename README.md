@@ -8,7 +8,7 @@ You will need to have [Node.js](https://nodejs.org) installed along with the [`p
 
 ## Instructions
 
-Add `pretty_html` to your plugins list in `pelicanconf.py` after installing.
+Add `pelican-plugin-tidy-html` to your plugins list in `pelicanconf.py` after installing.
 
 ## Credits
 
